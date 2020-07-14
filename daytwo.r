@@ -21,7 +21,7 @@ print (total_week)
 print (total_poker > total_roulette) #TRUE
 
 #Assign the poker results of Wednesday to poker_wednesday.
-poker_wednesday = poker_vector[3]
+poker_wednesday <- poker_vector[3]
 
 # Define a new variable based on a selection
 poker_midweek <- poker_vector[c(2,3,4)] 
