@@ -14,7 +14,7 @@
 | ------------------- | ------------------- |
 |  01 | Arithmetic with R, Variable assignment, Basic data types in R, Vectors |
 |  02 | Vector selection, Comparison operators, Selection by comparison |
-| 03 | 	
+| 03 | Matrix, Analyze matrices, Naming a matrix, rowSums()	function |
 03 			
 04 			
 05 			
