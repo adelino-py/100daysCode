@@ -6,13 +6,14 @@
 ## My Goals are:
 
 - [ ] Learn about R
+- [ ] Learn more about Python
 - [ ] Learn about Data Science
-- [ ] Be able to implement the language in projets (Machine Learning)
+- [ ] Be able to implement this languages in projets (Machine Learning)
 
 | Day |  I study: |
 | ------------------- | ------------------- |
 |  01 | Arithmetic with R, Variable assignment, Basic data types in R, Vectors |
-|  02 |  |
+|  02 | Vector selection, Comparison operators, Selection by comparison |
 | 03 | 	
 03 			
 04 			
