@@ -37,9 +37,9 @@ worldwide_vector <- rowSums(star_wars_matrix) #rowSums som as linhas e cria um n
 
 all_wars_matrix <- cbind(star_wars_matrix, worldwide_vector)
 all_wars_matrix <- rbind(star_wars_matrix, star_wars_matrix2)
-#print (all_wars_matrix)
+print (all_wars_matrix)
 
 #Calculate the total revenue for the US and the non-US region
 total_revenue_vector <- colSums (all_wars_matrix)
-print (total_revenue_vector)
+
 
