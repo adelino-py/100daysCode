@@ -16,7 +16,7 @@
 |  02 | Vector selection, Comparison operators, Selection by comparison |
 | 03 | 	Matrix, Analyze matrices, Naming a matrix, rowSums() function |
 | 04 | Adding a columns with cbind() and rows with rbind(), colSums() function |
-05 			
+| 05 | Selection of matrix elements and arithmetic with matrices |	
 06 			
 07 			
 08 			
