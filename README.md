@@ -17,7 +17,7 @@
 | 03 | 	Matrix, Analyze matrices, Naming a matrix, rowSums() function |
 | 04 | Adding a columns with cbind() and rows with rbind(), colSums() function |
 | 05 | Selection of matrix elements and arithmetic with matrices |	
-06 			
+| 06 | Factors, Factors levels, summary() function, Ordered factors and her comparings | 			
 07 			
 08 			
 09 			
