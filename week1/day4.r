@@ -14,7 +14,7 @@ box_office2 <- c(phantom_menace, attack_clones, revenge_sith)
 star_wars_matrix <- matrix(box_office1, byrow= TRUE, nrow= 3)
 star_wars_matrix2 <- matrix(box_office2, byrow = TRUE, nrow= 3)
 
-#Dando nomes a linhas e colunas
+# Dando nomes a linhas e colunas
 region1 <- c("US", "non-US")
 title1 <- c("A New Hope", "The Empire Strikes Back", "Return of the Jedi") 
 

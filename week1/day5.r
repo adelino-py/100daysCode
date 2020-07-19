@@ -54,7 +54,7 @@ tattack_clones <- c(4.5, 4.5)
 trevenge_sith <- c(4.9, 4.9)
 
 ticket <- c(new_hope, empire_strikes, return_jedi, phantom_menace, attack_clones, revenge_sith)
-ticket_matrix <- matrix(ticket, byrow= TRUE, nrow= 6)
+ticket_prices_matrix <- matrix(ticket, byrow= TRUE, nrow= 6)
 
 region <- c("US", "non-US")
 title <- c("A New Hope", "The Empire Strikes Back", "Return of the Jedi", "The Phantom Menace", "Attack of the Clones", "Revenge of the Sith") 
