@@ -2,6 +2,8 @@
 
 ## Materials
 - Introduction to R - DataCamp
+- Introduction to Importing Data in R - DataCamp
+
 
 ## My Goals are:
 
@@ -18,8 +20,8 @@
 | 04 | Adding a columns with cbind() and rows with rbind(), colSums() function |
 | 05 | Selection of matrix elements and arithmetic with matrices |	
 | 06 | Factors, Factors levels, summary() function, Ordered factors and her comparings | 			
-07 			
-08 			
+| 07 | Data Frames (creating, selection, sorting)|
+| 08 | Lists (creating, naming, selection) |
 09 			
 10 			
 11 			
