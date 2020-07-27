@@ -26,3 +26,7 @@ tom <- hotdogs[which.max(hotdogs$sodium), ]
 
 hotdogs2 <- read.delim("http://s3.amazonaws.com/assets.datacamp.com/production/course_1477/datasets/hotdogs.txt", header = FALSE, col.names = c("type", "calories", "sodium"), colClasses = c("factor", "NULL","numeric"))
 print (str(hotdogs2))
+
+sandro - mexico
+cristina - frança
+matheus - eua - celular
